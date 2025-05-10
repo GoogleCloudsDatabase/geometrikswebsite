@@ -19,6 +19,21 @@ a:hover
    color: #1973B5;
    text-decoration: underline;
 }
+@media only screen and (min-width: 1440px) and (max-width: 1919px)
+{
+}
+@media only screen and (min-width: 1024px) and (max-width: 1439px)
+{
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+{
+}
+@media only screen and (min-width: 375px) and (max-width: 767px)
+{
+}
+@media only screen and (max-width: 374px)
+{
+}
 #wb_blogLayout_1
 {
    clear: both;
@@ -29,7 +44,7 @@ a:hover
    width: 100%;
    height: 50vh;
    background-color: transparent;
-   background-image: url('../images/Agencia_de_marketing_Geometriks_guayaquil_02.jpg');
+   background-image: url('images/Agencia_de_marketing_Geometriks_guayaquil_02.jpg');
    background-repeat: no-repeat;
    background-position: center center;
    background-attachment: scroll;
@@ -139,7 +154,7 @@ a:hover
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   padding: 10px 0 10px 0;
+   padding: 0 0 10px 0;
    margin-right: auto;
    margin-left: auto;
    max-width: 1280px;
@@ -236,7 +251,7 @@ a:hover
    font-family: Arial;
    font-weight: bold;
    font-style: normal;
-   font-size: 43px;
+   font-size: 24px;
    margin: 0;
    text-align: right;
    text-transform: none;
@@ -333,12 +348,6 @@ a:hover
    background-image: none;
    color: #F4F4F4;
 }
-#wb_uid0
-{
-   color: #222222;
-   font-family: "Arial";
-   font-size: 16px;
-}
 #wb_blogLayout_image
 {
    display: block;
@@ -431,7 +440,7 @@ body
 #blogLayout_2
 {
    height: auto;
-   padding: 10px 0 10px 0;
+   padding: 0 0 10px 0;
 }
 #blogLayout_2 > .col-1, #blogLayout_2 > .col-2
 {
@@ -597,7 +606,7 @@ body
 #blogLayout_2
 {
    height: auto;
-   padding: 10px 0 10px 0;
+   padding: 0 0 10px 0;
 }
 #blogLayout_2 > .col-1, #blogLayout_2 > .col-2
 {
@@ -763,7 +772,7 @@ body
 #blogLayout_2
 {
    height: auto;
-   padding: 10px 0 10px 0;
+   padding: 0 0 10px 0;
 }
 #blogLayout_2 > .col-1, #blogLayout_2 > .col-2
 {
@@ -929,7 +938,7 @@ body
 #blogLayout_2
 {
    height: auto;
-   padding: 10px 0 10px 0;
+   padding: 0 0 10px 0;
 }
 #blogLayout_2 > .col-1, #blogLayout_2 > .col-2
 {
@@ -1095,7 +1104,7 @@ body
 #blogLayout_2
 {
    height: auto;
-   padding: 0px 0 0px 0;
+   padding: 0 0 10px 0;
 }
 #blogLayout_2 > .col-1, #blogLayout_2 > .col-2
 {
