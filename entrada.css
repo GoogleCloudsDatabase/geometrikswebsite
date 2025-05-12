@@ -1,0 +1,61 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #222222;
+   font-family: Poppins;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #1973B5;
+   text-decoration: underline;
+}
+a:hover
+{
+   color: #1973B5;
+   text-decoration: underline;
+}
+@media only screen and (min-width: 1440px) and (max-width: 1919px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+}
+@media only screen and (min-width: 1024px) and (max-width: 1439px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+}
+@media only screen and (min-width: 375px) and (max-width: 767px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+}
+@media only screen and (max-width: 374px)
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+}
